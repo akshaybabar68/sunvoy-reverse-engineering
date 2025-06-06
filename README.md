@@ -25,3 +25,7 @@ The script mimics browser behavior to log in, reuses cookies, and parses HTML re
 npm install
 npm start
 
+```
+# Loom Video
+- Watch the script in action:
+👉 [https://www.loom.com/share/ffaf6997655d487bba0a8c084f729b7d]
